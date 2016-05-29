@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 8d01927399bbebb45a847b0fb6515c9d
+timeCreated: 1445404360
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: bar
+    100004: bottom
+    100006: Bust_Rig
+    100008: controller
+    100010: Dionaea_01_model:polySurface19
+    100012: Dionaea_ctrl
+    100014: Foot_L_Rig
+    100016: Foot_R_Rig
+    100018: Hand_L_Rig
+    100020: Hand_R_Rig
+    100022: ikHandle1
+    100024: joint
+    100026: joint1
+    100028: joint10
+    100030: joint11
+    100032: joint12
+    100034: joint13
+    100036: joint14
+    100038: joint15
+    100040: joint16
+    100042: joint17
+    100044: joint18
+    100046: joint19
+    100048: joint2
+    100050: joint20
+    100052: joint21
+    100054: joint22
+    100056: joint23
+    100058: joint24
+    100060: joint3
+    100062: joint4
+    100064: joint5
+    100066: joint6
+    100068: joint7
+    100070: joint8
+    100072: joint9
+    100074: Loot_Rig
+    100076: model
+    100078: Mouse_L_Rig
+    100080: Mouse_R_Rig
+    100082: //RootNode
+    100084: Puyon_body
+    100086: rig
+    400000: back
+    400002: bar
+    400004: bottom
+    400006: Bust_Rig
+    400008: controller
+    400010: Dionaea_01_model:polySurface19
+    400012: Dionaea_ctrl
+    400014: Foot_L_Rig
+    400016: Foot_R_Rig
+    400018: Hand_L_Rig
+    400020: Hand_R_Rig
+    400022: ikHandle1
+    400024: joint
+    400026: joint1
+    400028: joint10
+    400030: joint11
+    400032: joint12
+    400034: joint13
+    400036: joint14
+    400038: joint15
+    400040: joint16
+    400042: joint17
+    400044: joint18
+    400046: joint19
+    400048: joint2
+    400050: joint20
+    400052: joint21
+    400054: joint22
+    400056: joint23
+    400058: joint24
+    400060: joint3
+    400062: joint4
+    400064: joint5
+    400066: joint6
+    400068: joint7
+    400070: joint8
+    400072: joint9
+    400074: Loot_Rig
+    400076: model
+    400078: Mouse_L_Rig
+    400080: Mouse_R_Rig
+    400082: //RootNode
+    400084: Puyon_body
+    400086: rig
+    4300000: Puyon_body
+    4300002: Dionaea_01_model:polySurface19
+    7400000: Take 001
+    7400002: Idle_A
+    7400004: Move_A
+    7400006: Move_A2
+    7400008: FormChange
+    7400010: Idle_B
+    7400012: Attack
+    7400014: Move_B
+    7400016: CallEnemy
+    7400018: Cry_B
+    7400020: FormReturn
+    7400022: Move_B2
+    9500000: //RootNode
+    13700000: Dionaea_01_model:polySurface19
+    13700002: Puyon_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_A
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Move_A
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Move_A2
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: FormChange
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_B
+      takeName: Take 001
+      firstFrame: 601
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 661
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Move_B
+      takeName: Take 001
+      firstFrame: 801
+      lastFrame: 842
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CallEnemy
+      takeName: Take 001
+      firstFrame: 891
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Cry_B
+      takeName: Take 001
+      firstFrame: 1001
+      lastFrame: 1210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: FormReturn
+      takeName: Take 001
+      firstFrame: 1211
+      lastFrame: 1660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Move_B2
+      takeName: Take 001
+      firstFrame: 849
+      lastFrame: 890
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: joint
+        weight: 1
+      - path: joint/ikHandle1
+        weight: 1
+      - path: joint/joint1
+        weight: 1
+      - path: joint/joint1/joint2
+        weight: 1
+      - path: joint/joint1/joint2/joint3
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11
+        weight: 1
+      - path: joint/joint1/joint2/joint3/joint4/joint5/joint6/joint10/joint11/joint12
+        weight: 1
+      - path: joint/joint1/joint13
+        weight: 1
+      - path: joint/joint1/joint13/joint14
+        weight: 1
+      - path: joint/joint1/joint15
+        weight: 1
+      - path: joint/joint1/joint15/joint16
+        weight: 1
+      - path: joint/joint1/joint17
+        weight: 1
+      - path: joint/joint1/joint17/joint18
+        weight: 1
+      - path: joint/joint1/joint19
+        weight: 1
+      - path: joint/joint1/joint19/joint20
+        weight: 1
+      - path: joint/joint1/joint21
+        weight: 1
+      - path: joint/joint1/joint21/joint22
+        weight: 1
+      - path: joint/joint1/joint23
+        weight: 1
+      - path: joint/joint1/joint23/joint24
+        weight: 1
+      - path: model
+        weight: 1
+      - path: model/Dionaea_01_model:polySurface19
+        weight: 1
+      - path: model/Puyon_body
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/controller
+        weight: 1
+      - path: rig/controller/bar
+        weight: 1
+      - path: rig/controller/Dionaea_ctrl
+        weight: 1
+      - path: rig/Loot_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Bust_Rig/Mouse_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Foot_R_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_L_Rig
+        weight: 1
+      - path: rig/Loot_Rig/Hand_R_Rig
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

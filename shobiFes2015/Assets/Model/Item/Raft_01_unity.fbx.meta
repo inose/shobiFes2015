@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: fbcebc36980da4a4a9831bca8ef307dc
+timeCreated: 1445611861
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pPlane1
+    100002: pPlane2
+    100004: pPlane3
+    100006: pPlane4
+    100008: pPlane5
+    100010: Raft
+    100012: Raft1
+    100014: Raft2
+    100016: Raft3
+    100018: Raft4
+    100020: Raft5
+    100022: //RootNode
+    400000: pPlane1
+    400002: pPlane2
+    400004: pPlane3
+    400006: pPlane4
+    400008: pPlane5
+    400010: Raft
+    400012: Raft1
+    400014: Raft2
+    400016: Raft3
+    400018: Raft4
+    400020: Raft5
+    400022: //RootNode
+    2300000: pPlane1
+    2300002: pPlane2
+    2300004: pPlane3
+    2300006: pPlane4
+    2300008: pPlane5
+    2300010: Raft
+    2300012: Raft1
+    2300014: Raft2
+    2300016: Raft3
+    2300018: Raft4
+    2300020: Raft5
+    3300000: pPlane1
+    3300002: pPlane2
+    3300004: pPlane3
+    3300006: pPlane4
+    3300008: pPlane5
+    3300010: Raft
+    3300012: Raft1
+    3300014: Raft2
+    3300016: Raft3
+    3300018: Raft4
+    3300020: Raft5
+    4300000: Raft
+    4300002: Raft1
+    4300004: Raft2
+    4300006: Raft3
+    4300008: Raft4
+    4300010: Raft5
+    4300012: pPlane1
+    4300014: pPlane2
+    4300016: pPlane3
+    4300018: pPlane4
+    4300020: pPlane5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
