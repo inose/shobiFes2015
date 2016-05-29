@@ -8,6 +8,8 @@
   開発期間：3ヵ月
 
   Unityにより制作
+  
+  manual → 操作説明
 
   shobiFes2015 → 制作データ
 
