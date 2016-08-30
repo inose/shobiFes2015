@@ -15,4 +15,4 @@
 
   shokuenPlay → Webプレイ用
 
-  shokuenPlay → Webプレイ用
+  OP/EDの動画容量を小さくするため、ここでは画質を粗くしています。
