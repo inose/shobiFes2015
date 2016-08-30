@@ -14,3 +14,5 @@
   shobiFes2015 → 制作データ
 
   shokuenPlay → Webプレイ用
+
+  shokuenPlay → Webプレイ用
